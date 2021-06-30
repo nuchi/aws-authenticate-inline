@@ -1,0 +1,4 @@
+aws_authenticate_inline.egg-info
+build
+dist
+__pycache__
